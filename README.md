@@ -7,3 +7,7 @@ This is a complete application, with an API (made by Nodejs) to store NGOs and t
 
 ## Web Version
 These are the forms to register a NGO and to store a new case:
+
+![Output Two](https://github.com/carloscarrinho/OmniStack-be-the-hero/blob/master/output_2.gif)
+
+![Output One](https://github.com/carloscarrinho/OmniStack-be-the-hero/blob/master/output_1.gif)
